@@ -1,4 +1,4 @@
 class profile::lightweight_component (
 ){
-  include simple_grid::install::lightweight_component::init
+  include simple_grid::test::lightweight_component::init
 }
